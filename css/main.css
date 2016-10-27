@@ -1,0 +1,83 @@
+
+{
+  background: url(C:\Users\Amy\Desktop\Travel-agency\images\pexels-photo.jpg) no-repeat center center;
+  -webkit-background-size: cover;
+}
+
+
+.main{
+font-family: 'Poppins', sans-serif;
+
+}
+
+.background img{
+  z-index: -1;
+  position: absolute;
+  opacity: 0.75;
+
+}
+
+h1{
+  font-size: 75px;
+  color: white;
+  padding-left: 10px;
+  z-index: inherit;
+  margin: 0;
+  text-shadow: 0.05em 0.05em #5e3e28;
+
+
+  }
+
+h3{
+  font-size: 25px;
+  text-decoration: overline;
+  text-shadow: 0.03em 0.03em white;
+  color: #4D422c;
+  padding-left: 800px;
+  margin: 0 0 7% 0;
+
+
+
+}
+
+.nav ul li a{
+  color: #448371;
+  font-size: 1.5em;
+  text-decoration: none;
+  text-shadow: 0.03em 0.03em white;
+  font-weight: bold;
+  padding-left: 0em;
+  padding-top: 6em;
+
+
+}
+
+
+
+.nav ul li a:hover{
+  color: white;
+}
+
+.nav ul li a:visited{
+  color: #926242;
+}
+
+.air{
+  float: left;
+  padding-left: 30px;
+  list-style-type: none;
+
+}
+
+.cruise{
+  float: left;
+  padding-left: 60px;
+  list-style-type: none;
+
+
+}
+  .rail{
+    float: left;
+    padding-left: 60px;
+    list-style-type: none;
+  }
